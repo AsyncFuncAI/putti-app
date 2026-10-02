@@ -9,7 +9,9 @@ helper can use them, and anything that changes something asks you first.
 
 ## Download
 
-**[Download Putti for the Mac](../../releases/latest/download/Putti_aarch64.dmg)**
+**[Download Putti for the Mac](https://github.com/AsyncFuncAI/putti-app/releases/latest/download/Putti_aarch64.dmg)**
+
+Or start at [sharenow.today/putti](https://sharenow.today/putti).
 
 - macOS 13 or later, on an Apple Silicon Mac (M1 or newer)
 - A Claude or ChatGPT plan for your helpers to think with
@@ -20,7 +22,7 @@ updates itself: **Putti › Check for Updates…** looks right away.
 
 ## Questions and problems
 
-Open an [issue](../../issues). Please leave out anything private.
+Open an [issue](https://github.com/AsyncFuncAI/putti-app/issues). Please leave out anything private.
 
 ## Your data
 
