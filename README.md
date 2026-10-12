@@ -1,3 +1,13 @@
+# Putti is now Studio
+
+Putti was renamed **Studio by sharenow** in October 2026. Get it at
+**[github.com/AsyncFuncAI/sharenow-studio](https://github.com/AsyncFuncAI/sharenow-studio)** or
+[sharenow.today/studio](https://sharenow.today/studio), and sign in with the same account: your
+helpers, their memory, your chats and your cloud computer are all there. Putti 0.2.16 is the last
+Putti release.
+
+---
+
 # Putti
 
 Your own helpers. Just talk.
